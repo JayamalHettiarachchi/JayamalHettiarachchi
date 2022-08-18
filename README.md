@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JayamalHettiarachchi
+- 👋 Hi, I’m Jayamal Hettiarachchi
 - 👀 I’m interested in Machine learning, Mobile application development, Automation and Cloud computing.
 - 🌱 I’m currently learning more about Machine learning and cloud computing.
 <!-- - 📫 How to reach me ... -->
